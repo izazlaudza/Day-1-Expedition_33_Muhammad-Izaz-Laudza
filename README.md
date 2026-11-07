@@ -29,4 +29,4 @@ Pada Day 1 Proyek Workshop, materi yang disampaikan berfokus pada dua hal utama:
 - Cara melakukan *generate* SSH Key (`ed25519`) dan menghubungkannya antara komputer lokal (macOS/Windows) dengan akun GitHub agar proses *push/pull* lebih aman dan mudah.
 
 ### Pendapat Pribadi tentang Day 1 Proyek Workshop
-Day 1 Proyek Workshop ini sangat praktikal dan informatif. Materi *prompt engineering* memberikan wawasan baru tentang bagaimana cara berkomunikasi dengan AI secara efisien sebagai *developer*. Selain itu, praktik langsung *setup* Git dan GitHub melalui terminal di VSCode sangat membantu memperkuat fundamental dalam kolaborasi dan manajemen kode ke depannya.
+Di Day 1 Expectik ini menurut saya sangat menyenangkan dan seru. para pemateri juga bisa menyampaikan informasi dengan baik, sehingga saya bisa menangkap materi yang disampaikan. Materi - materi yang disampaikan juga sangat informatif dan sangat membantu saya di kehidupan kampus saya.
